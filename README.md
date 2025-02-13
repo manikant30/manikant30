@@ -1,4 +1,5 @@
-
+<h1 align="center"> hi My Self Mani Kant Kumar</h1>
+<img align="right" alt="coding" width="400" scr="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/manikant) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/manikant.kmr30) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/07____manikant/?hl=en) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/manikant30) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/manikant30) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manikantkmr30@gmail.com) 
 

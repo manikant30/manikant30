@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **manikantkmr30@gmail.com**
 - I am Mani Kant Kumar 😃. I am from Bhagalpur, Bihar, and currently doing my B.Tech from Gaya College oF Engineering,Gaya 🏫. I love to explore and learn about new things.
-- <img align="right" alt="manikant" width="400" src="https://anuragbhardwaj.netlify.app/codingguy.gif"/>
+ <img align="right" alt="manikant" width="400" src="https://anuragbhardwaj.netlify.app/codingguy.gif"/>
 
 
 ## 🌐 Socials:

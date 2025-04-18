@@ -4,7 +4,17 @@
 
 
 - 📫 How to reach me **manikantkmr30@gmail.com**
-- I am Mani Kant Kumar 😃. I am from Bhagalpur, Bihar, and currently doing my B.Tech from Gaya College oF Engineering,Gaya 🏫. I love to explore and learn about new things.
+  
+- Hello, I am Mani Kant Kumar
+- Enthusiastic Java developer with a strong foundation in object-oriented programming and backend development.
+- Experienced with core Java, Java Collections, multithreading, and exception handling.
+- Learning advanced topics like Spring Boot, REST APIs, and Microservices Architecture.
+- Actively practicing Data Structures & Algorithms (DSA) to strengthen problem-solving skills.
+- Interested in building scalable, high-performance backend systems.
+- Passionate about writing clean, efficient, and well-documented code.
+- Open to collaboration and continuous learning in the field of software development.
+
+
  <img align="right" alt="manikant" width="400" src="https://anuragbhardwaj.netlify.app/codingguy.gif"/>
 
 

@@ -1,3 +1,10 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mani Kant Kumar </h1>
+<h3 align="center">A passionate Programmer and I ❤️ open-source</h3>
+
+
+
+- 📫 How to reach me **manikantkmr30@gmail.com**
+- I am Mani Kant Kumar 😃. I am from Bhagalpur, Bihar, and currently doing my B.Tech from Gaya College oF Engineering,Gaya 🏫. I love to explore and learn about new things.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikantkmr/)

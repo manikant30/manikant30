@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=manikant30&label=Profile%20views&color=00DDEB&style=flat" alt="Profile Views" />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mani Kant Kumar </h1>
 <h3 align="center">A passionate Programmer and I ❤️ open-source</h3>
 

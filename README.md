@@ -58,7 +58,7 @@
 |--------------|-------------|------------|------|
 | **Student Management System** | A CRUD-based web app for managing student data. | Java, Spring Boot, MySQL | [GitHub Repo](https://github.com/manikant30/student-management) |
 | **Task Tracker API** | RESTful API for managing tasks and user authentication. | Spring Boot, JWT, MySQL | [GitHub Repo](https://github.com/manikant30/task-tracker-api) |
-| **Portfolio Website** | Personal portfolio site showcasing my work. | HTML, CSS, JavaScript | [Visit Site](manikant-portfolio-website.onrender.com/) |
+| **Portfolio Website** | Personal portfolio site showcasing my work. | HTML, CSS, JavaScript | [Visit Site](https://manikant-portfolio-website.onrender.com/) |
 
 ---
 

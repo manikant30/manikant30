@@ -58,7 +58,7 @@
 |--------------|-------------|------------|------|
 | **Student Management System** | A CRUD-based web app for managing student data. | Java, Spring Boot, MySQL | [GitHub Repo](https://github.com/manikant30/student-management) |
 | **Task Tracker API** | RESTful API for managing tasks and user authentication. | Spring Boot, JWT, MySQL | [GitHub Repo](https://github.com/manikant30/task-tracker-api) |
-| **Portfolio Website** | Personal portfolio site showcasing my work. | HTML, CSS, JavaScript | [Visit Site](https://manikant30.github.io/) |
+| **Portfolio Website** | Personal portfolio site showcasing my work. | HTML, CSS, JavaScript | [Visit Site](manikant-portfolio-website.onrender.com/) |
 
 ---
 
@@ -76,7 +76,7 @@
 
 [![@manikant30's HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/manikantkmr30)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/manikant30/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-308D46?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/manikant30/practice/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-308D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/manikantkmr30/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/manikant30)
 
 ---
@@ -99,4 +99,4 @@
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

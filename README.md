@@ -1,3 +1,6 @@
+## 🔥 Visitor Count
+
+[![](https://visitcount.itsvg.in/api?id=manikant30&icon=0&color=0)](https://visitcount.itsvg.in)
 <img src="https://komarev.com/ghpvc/?username=manikant30&label=Profile%20views&color=00DDEB&style=flat" alt="Profile Views" />
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Mani Kant Kumar 👋</h1>
@@ -59,7 +62,7 @@
 |**Bank Management System** |Developed an ATM simulator with core banking functions like account creation, deposit, withdrawal,mini-statement, and PIN change. |Java (Swing AWT), MySQL, NetBeans IDE |      [GitHub Repo](https://github.com/manikant30/ATM-Simulator-System) |
 |**Car Rental System** |Designed and implemented a car rental system using Java and OOP principles,Features include car/customer management, rental history tracking, and return handling|  Java,OOP,Exception Handling,File Handling |[GitHub Repo](https://github.com/manikant30/Car-Rental-System) |
 |**Emotion-Based Music Recommendation System** |Achieved real-time facial emotion detection through computer vision and deep learning. |Python,Flask,Spotyify Api |[GitHub Repo]() |
-|**Portfolio Website** |Personal portfolio site showcasing my work. |HTML, CSS, JavaScript |[Visit Site](https://manikant-portfolio-website.onrender.com/) |
+|**Portfolio Website** |Personal portfolio site showcasing my work. |HTML, CSS, JavaScript |[Visit Site](https://manikantportfoliowebsite.vercel.app/) |
 
 ---
 
@@ -94,10 +97,6 @@
 
 ---
 
-## 🔥 Visitor Count
 
-[![](https://visitcount.itsvg.in/api?id=manikant30&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 
 

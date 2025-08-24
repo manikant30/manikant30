@@ -1,8 +1,16 @@
-<h1 align="center">👋 Hyy! I'm Mani Kant Kumar</h1>
+<img style='width:100%' src='https://capsule-render.vercel.app/api?type=waving&height=117&color=7a49a5&section=header&reversal=false'>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&color=7a49a5&center=true&vCenter=true&random=true&width=500&lines=Welcome+To+My+Github+Profile" alt="Typing SVG"/>
+  </a>
+</div>
+
+![logo](https://github.com/pouyasonej/pouyasonej/raw/main/githubban.gif)<h1 align="center">👋 Hyy! I'm Mani Kant Kumar</h1>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFFF&width=800&lines=Java%20Developer;Competitive%20Programming;Open%20Source%20Contributor"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFFF&width=800&lines=Java%20Developer;"
     alt="Typing SVG"
   />
 </p>

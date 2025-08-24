@@ -61,7 +61,7 @@
 |--------------|-------------|------------|------|
 |**Bank Management System** |Developed an ATM simulator with core banking functions like account creation, deposit, withdrawal,mini-statement, and PIN change. |Java (Swing AWT), MySQL, NetBeans IDE |      [GitHub Repo](https://github.com/manikant30/ATM-Simulator-System) |
 |**Car Rental System** |Designed and implemented a car rental system using Java and OOP principles,Features include car/customer management, rental history tracking, and return handling|  Java,OOP,Exception Handling,File Handling |[GitHub Repo](https://github.com/manikant30/Car-Rental-System) |
-|**Emotion-Based Music Recommendation System** |Achieved real-time facial emotion detection through computer vision and deep learning. |Python,Flask,Spotyify Api |[GitHub Repo]() |
+|**Emotion-Based Music Recommendation System** |Achieved real-time facial emotion detection through computer vision and deep learning. |Python,Flask,Spotyify Api |[GitHub Repo](https://github.com/manikant30/Emotion-Based-Music-Recommendation-System.git) |
 |**Portfolio Website** |Personal portfolio site showcasing my work. |HTML, CSS, JavaScript |[Visit Site](https://manikantportfoliowebsite.vercel.app/) |
 
 ---

@@ -56,9 +56,10 @@
 
 | Project Name | Description | Tech Stack | Link |
 |--------------|-------------|------------|------|
-| **Student Management System** | A CRUD-based web app for managing student data. | Java, Spring Boot, MySQL | [GitHub Repo](https://github.com/manikant30/student-management) |
-| **Task Tracker API** | RESTful API for managing tasks and user authentication. | Spring Boot, JWT, MySQL | [GitHub Repo](https://github.com/manikant30/task-tracker-api) |
-| **Portfolio Website** | Personal portfolio site showcasing my work. | HTML, CSS, JavaScript | [Visit Site](https://manikant-portfolio-website.onrender.com/) |
+|**Bank Management System** |Developed an ATM simulator with core banking functions like account creation, deposit, withdrawal,mini-statement, and PIN change. |Java (Swing AWT), MySQL, NetBeans IDE |      [GitHub Repo](https://github.com/manikant30/ATM-Simulator-System) |
+|**Car Rental System** |Designed and implemented a car rental system using Java and OOP principles,Features include car/customer management, rental history tracking, and return handling|  Java,OOP,Exception Handling,File Handling |[GitHub Repo](https://github.com/manikant30/Car-Rental-System) |
+|**Emotion-Based Music Recommendation System** |Achieved real-time facial emotion detection through computer vision and deep learning. |Python,Flask,Spotyify Api |[GitHub Repo]() |
+|**Portfolio Website** |Personal portfolio site showcasing my work. |HTML, CSS, JavaScript |[Visit Site](https://manikant-portfolio-website.onrender.com/) |
 
 ---
 

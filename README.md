@@ -19,7 +19,7 @@
 - ✍️ I love writing clean, efficient, and well-documented code.
 - 🤝 Open to collaboration and continuous learning in software development.
 
-<img align="right" alt="manikant" width="400" src="https://anuragbhardwaj.netlify.app/codingguy.gif" />
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 ---
 

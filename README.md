@@ -1,9 +1,39 @@
-## 🔥 Visitor Count
+<h1 align="center">👋 Hyy! I'm Mani Kant Kumar</h1>
 
-[![](https://visitcount.itsvg.in/api?id=manikant30&icon=0&color=0)](https://visitcount.itsvg.in)
-<img src="https://komarev.com/ghpvc/?username=manikant30&label=Profile%20views&color=00DDEB&style=flat" alt="Profile Views" />
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFFF&width=800&lines=Java%20Developer;Competitive%20Programming;Open%20Source%20Contributor"
+    alt="Typing SVG"
+  />
+</p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Mani Kant Kumar 👋</h1>
+
+<p align="center">
+  <!-- Profile Views badge (unchanged, just centered) -->
+  <img
+    src="https://komarev.com/ghpvc/?username=siddhantshukla108&label=Profile%20views&color=ff69b4&style=flat-square"
+    alt="Profile Views"
+  />
+
+  <!-- LinkedIn badge -->
+  <a href="https://www.linkedin.com/in/manikantkmr/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn: manikantkmr"
+    />
+  </a>
+
+  <!-- Portfolio badge -->
+  <a href="https://manikantportfoliowebsite.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/Visit%20Portfolio-111111?style=flat-square&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+</p>
+
+
+---
 
 <h3 align="center">A Passionate Java Backend Developer | Open-Source Enthusiast ❤️</h3>
 

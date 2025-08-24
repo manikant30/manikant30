@@ -6,11 +6,10 @@
   </a>
 </div>
 
-![logo](https://github.com/pouyasonej/pouyasonej/raw/main/githubban.gif)<h1 align="center">👋 Hyy! I'm Mani Kant Kumar</h1>
-
+![logo](https://github.com/pouyasonej/pouyasonej/raw/main/githubban.gif)
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFFF&width=800&lines=Java%20Developer;"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFFF&width=800&lines=👋%20Hyy!%20I%27m%20Mani%20Kant%20Kumar;"
     alt="Typing SVG"
   />
 </p>
@@ -19,7 +18,7 @@
 <p align="center">
   <!-- Profile Views badge (unchanged, just centered) -->
   <img
-    src="https://komarev.com/ghpvc/?username=siddhantshukla108&label=Profile%20views&color=ff69b4&style=flat-square"
+    src="https://komarev.com/ghpvc/?username=manikant30&label=Profile%20views&color=ff69b4&style=flat-square"
     alt="Profile Views"
   />
 
@@ -27,7 +26,7 @@
   <a href="https://www.linkedin.com/in/manikantkmr/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"
-      alt="LinkedIn: manikantkmr"
+      alt="LinkedIn:"
     />
   </a>
 
@@ -64,12 +63,9 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikantkmr/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/manikant)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/manikant.kmr30)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/07____manikant/?hl=en)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/SeaImpossible5978/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/manikant30)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manikantkmr30@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/manikant)
+
 
 ---
 

@@ -1,17 +1,17 @@
-<img style='width:100%' src='https://capsule-render.vercel.app/api?type=waving&height=117&color=7a49a5&section=header&reversal=false'>
+<img style='width:100%' src='https://capsule-render.vercel.app/api?type=waving&height=80&color=7a49a5&section=header&reversal=false'>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&color=7a49a5&center=true&vCenter=true&random=true&width=500&lines=Welcome+To+My+Github+Profile" alt="Typing SVG"/>
+    
   </a>
 </div>
-
-![logo](https://github.com/pouyasonej/pouyasonej/raw/main/githubban.gif)
+ <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1100">
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFFF&width=800&lines=👋%20Hyy!%20I%27m%20Mani%20Kant%20Kumar;"
     alt="Typing SVG"
-  />
+    
 </p>
 
 
@@ -40,11 +40,11 @@
 </p>
 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
 
 <h3 align="center">A Passionate Java Backend Developer | Open-Source Enthusiast ❤️</h3>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
 
 - 📫 Reach me at **manikantkmr30@gmail.com**
 
@@ -58,7 +58,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
 
 ## 🌐 Socials:
 
@@ -67,7 +67,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/manikant)
 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
 
 ## 💻 Tech Stack:
 
@@ -79,7 +79,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
 
 ## 🛠️ Other Tools:
 
@@ -87,7 +87,7 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
 
 ## 📂 Featured Projects
 
@@ -98,7 +98,7 @@
 |**Emotion-Based Music Recommendation System** |Achieved real-time facial emotion detection through computer vision and deep learning. |Python,Flask,Spotyify Api |[GitHub Repo](https://github.com/manikant30/Emotion-Based-Music-Recommendation-System.git) |
 |**Portfolio Website** |Personal portfolio site showcasing my work. |HTML, CSS, JavaScript |[Visit Site](https://manikantportfoliowebsite.vercel.app/) |
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
 
 ## 🏆 Achievements & Certifications
 
@@ -108,7 +108,7 @@
 - 🎓 Completed 200+ DSA problems on LeetCode & GFG
 - 🧩 Hackerrank Java (Gold) & SQL (Silver) Badge Holder
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
 
 ## 🧑‍🎓 Badges
 
@@ -117,7 +117,7 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-308D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/manikantkmr30/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/manikant30)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
 
 ## 📊 GitHub Stats:
 
@@ -129,7 +129,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikant30&theme=dark&hide_border=false&layout=compact" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
 
 
 

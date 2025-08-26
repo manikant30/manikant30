@@ -33,7 +33,7 @@
   <!-- Portfolio badge -->
   <a href="https://manikantportfoliowebsite.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://img.shields.io/badge/Visit%20Portfolio-111111?style=flat-square&logo=vercel&logoColor=white"
+      src="https://img.shields.io/badge/View%20My%20Portfolio-8D66B0?style=flat-square&logo=vercel&logoColor=white"
       alt="Portfolio"
     />
   </a>

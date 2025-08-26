@@ -47,16 +47,23 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
 
 - 📫 Reach me at **manikantkmr30@gmail.com**
+  
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 - 👨‍💻 I'm Mani Kant Kumar, an enthusiastic Java developer with a strong foundation in object-oriented programming and backend development.
+  
 - 💡 Experienced in Core Java, Java Collections, Multithreading, and Exception Handling.
+  
 - 🚀 Learning Spring Boot, REST APIs, and Microservices Architecture.
+  
 - 🧠 Practicing Data Structures & Algorithms (DSA) to strengthen problem-solving skills.
+  
 - 🏗️ Passionate about building scalable, high-performance backend systems.
+  
 - ✍️ I love writing clean, efficient, and well-documented code.
+  
 - 🤝 Open to collaboration and continuous learning in software development.
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
 

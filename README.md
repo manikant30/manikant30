@@ -65,7 +65,7 @@
 - 🤝 Open to collaboration and continuous learning in software development.
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100"> -->
 
 ## 🌐 Socials:
 
@@ -74,7 +74,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/manikant)
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100"> -->
 
 ## 💻 Tech Stack:
 
@@ -86,7 +86,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100"> -->
 
 ## 🛠️ Other Tools:
 
@@ -94,28 +94,9 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100"> -->
 
-## 📂 Featured Projects
 
-| Project Name | Description | Tech Stack | Link |
-|--------------|-------------|------------|------|
-|**Bank Management System** |Developed an ATM simulator with core banking functions like account creation, deposit, withdrawal,mini-statement, and PIN change. |Java (Swing AWT), MySQL, NetBeans IDE |      [GitHub Repo](https://github.com/manikant30/ATM-Simulator-System) |
-|**Car Rental System** |Designed and implemented a car rental system using Java and OOP principles,Features include car/customer management, rental history tracking, and return handling|  Java,OOP,Exception Handling,File Handling |[GitHub Repo](https://github.com/manikant30/Car-Rental-System) |
-|**Emotion-Based Music Recommendation System** |Achieved real-time facial emotion detection through computer vision and deep learning. |Python,Flask,Spotyify Api |[GitHub Repo](https://github.com/manikant30/Emotion-Based-Music-Recommendation-System.git) |
-|**Portfolio Website** |Personal portfolio site showcasing my work. |HTML, CSS, JavaScript |[Visit Site](https://manikantportfoliowebsite.vercel.app/) |
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
-
-## 🏆 Achievements & Certifications
-
-- 🥇 Java Masterclass - Udemy (2024)
-- 🏅 Spring & Hibernate for Beginners - Udemy (2024)
-- 🎖️ SQL for Data Analysis - Coursera
-- 🎓 Completed 200+ DSA problems on LeetCode & GFG
-- 🧩 Hackerrank Java (Gold) & SQL (Silver) Badge Holder
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
 
 ## 🧑‍🎓 Badges
 
@@ -124,7 +105,7 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-308D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/manikantkmr30/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/manikant30)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100"> -->
 
 ## 📊 GitHub Stats:
 

@@ -40,11 +40,11 @@
 </p>
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100"> -->
 
-<h3 align="center">A Passionate Java Backend Developer | Open-Source Enthusiast ❤️</h3>
+<h3 align="center">A Passionate Java Backend Developer |</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100">
+
 
 - 📫 Reach me at **manikantkmr30@gmail.com**
   

@@ -1,9 +1,9 @@
-<img style='width:100%' src='https://capsule-render.vercel.app/api?type=waving&height=80&color=7a49a5&section=header&reversal=false'>
+<!-- <img style='width:100%' src='https://capsule-render.vercel.app/api?type=waving&height=80&color=7a49a5&section=header&reversal=false'> -->
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&color=7a49a5&center=true&vCenter=true&random=true&width=500&lines=Welcome+To+My+Github+Profile" alt="Typing SVG"/>
-    
+    <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&color=7a49a5&center=true&vCenter=true&random=true&width=500&lines=Welcome+To+My+Github+Profile" alt="Typing SVG"/>
+     -->
   </a>
 </div>
  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1100">
@@ -42,7 +42,7 @@
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1100"> -->
 
-<h3 align="center">A Passionate Java Backend Developer |</h3>
+<h3 align="center"> A Passionate Full Stack Java Developer </h3>
 
 
 
